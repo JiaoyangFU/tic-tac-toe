@@ -1,0 +1,22 @@
+.square{
+  width: 40px;
+  height: 40px;
+  border: solid 1px black;
+}
+
+.game-board {
+  position: relative;
+  width: 120px;
+  margin-left: auto; margin-right: auto;
+  padding-top: 35px;
+}
+
+.game {
+  position: relative;
+  margin-left: auto; margin-right: auto;
+  margin-top: 100px;
+
+  width: 200px;
+  height: 200px;
+  background-color: lightblue;
+}
